@@ -1,0 +1,9 @@
+.item{
+    border: 1px solid white;
+    border-radius: 6px;
+    width: 50%;
+    display: inline-block;
+}
+.item label{
+    margin-right: .5rem;
+}
